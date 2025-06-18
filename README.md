@@ -1,4 +1,4 @@
-# 📚 Segundo parcial Programacion de Computadoras 2025imulador de Biblioteca 
+#  Segundo parcial Programacion de Computadoras 2025imulador de Biblioteca 
 
 **Autor:** Juan Camilo Rodriguez Moreno  
 
