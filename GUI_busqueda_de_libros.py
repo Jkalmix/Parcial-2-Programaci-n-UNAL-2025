@@ -280,6 +280,9 @@ def mostrar_gestion_prestamos():
 
 
 
-mostrar_menu_principal()
+### INCIAR LA APLICACION 
 
+#muestra la ventana prinipal y carga los datos
+mostrar_menu_principal()
+cargar_datos()
 ventana_principal.mainloop()
