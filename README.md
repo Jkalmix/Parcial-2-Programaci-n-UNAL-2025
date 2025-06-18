@@ -41,7 +41,7 @@ Todo lo que se ve: menús, formularios, listas, búsqueda y préstamos.
 
 ---
 
-## 🧰 Requisitos y Paquetes Usados
+## Requisitos y Paquetes Usados
 
 # Paquetes estándar de Python
 
@@ -63,7 +63,7 @@ Todo lo que se ve: menús, formularios, listas, búsqueda y préstamos.
 
 ---
 
-# 🚀 ¿Cómo ejecutar?
+# ¿Cómo ejecutar?
 
 1. Descarga el archivo `GUI_busqueda_de_libros.py`.
 2. Abre una terminal/CMD en la carpeta del archivo.
