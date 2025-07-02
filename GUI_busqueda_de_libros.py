@@ -1,6 +1,5 @@
 import tkinter as tk  # Crear interfaces gráficas en Python.
 from tkinter import messagebox, ttk  # messagebox: para mostrar cuadros de diálogo. ttk: widgets mejorados 
-from PIL import Image, ImageTk  # Ppara trabajar con imágenes. 
 import json  # Para trabajar con datos en formato JSON (lectura y escritura).
 
 #VARIABLES GLOBALES
